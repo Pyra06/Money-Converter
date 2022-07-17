@@ -1,0 +1,2 @@
+rootProject.name='Number2Words(Beta)'
+include ':app'
